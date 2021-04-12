@@ -1,0 +1,5 @@
+#ignore runtime data
+*.json
+netComics
+
+
